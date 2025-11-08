@@ -1,0 +1,11 @@
+file_format: "1"
+id: idkeeb
+name: idkeeb
+type: shield
+url: https://google.com/
+requires: [pro_micro]
+features:
+  - keys
+siblings:
+  - idkeeb_left
+  - idkeeb_right
