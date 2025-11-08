@@ -2,8 +2,7 @@ file_format: "1"
 id: idkeeb
 name: idkeeb
 type: shield
-url: https://google.com/
-requires: [pro_micro]
+url: https://github.com/muj-j/zmk-idkeeb/
 features:
   - keys
 siblings:
